@@ -1,0 +1,25 @@
+{
+    "products": {
+        "book1": {
+            "name": "A Light in the Attic",
+            "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+        },
+        "book2": {
+            "name": "Tipping Point",
+            "url": "https://books.toscrape.com/catalogue/tipping-point_1001/index.html"
+        }
+    },
+    "email": {
+        "enabled": false,
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "sender": "",
+        "password": "",
+        "recipient": ""
+    },
+    "app": {
+        "name": "NeoTrack",
+        "version": "2.0.0",
+        "developer": "NEO"
+    }
+}
