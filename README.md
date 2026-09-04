@@ -32,7 +32,7 @@ Track competitor prices, get instant email alerts, and make data-driven decision
 ### 1. Setup Your Configuration
 
 Open the setup wizard:
-👉 **https://doll-hub.github.io/neotrack-setup/**
+👉 **https://doll-hub.github.io/neotrack/
 
 Add your products and download `config.json`
 
